@@ -1,0 +1,13 @@
+.mesUsers{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.mesUsers .user{
+    border: 1px solid #DEDEDE;
+    padding: 1rem;
+    margin: 5px;
+}
+.resultat{
+    color: red;
+}
